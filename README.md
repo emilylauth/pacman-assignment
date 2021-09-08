@@ -4,6 +4,6 @@
 
 ## All files are available in this repository
 
-## Practing application of DOM, looping, and setInterval concepts
+## Practicing application of DOM, looping, and setInterval concepts
 
 ## For educational purposes
